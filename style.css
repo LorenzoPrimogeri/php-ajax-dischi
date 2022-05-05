@@ -1,0 +1,31 @@
+.bg-grey {
+    background-color: hsl(210deg 21% 23%);
+}
+
+.bg-main {
+    background-color: hsl(209deg 33% 17%);
+}
+
+.c-white {
+    color: white;
+}
+
+.c-grey {
+    color: grey;
+}
+
+.logo {
+    width: 50px;
+}
+
+.main.container-fluid {
+    height: calc(100vh - 82px);
+}
+
+.lp-card {
+    width: calc(100% / 5 - 20px);
+    height: 420px;
+  }
+  .cardImg {
+    width: 100%;
+  }
