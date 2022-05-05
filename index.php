@@ -24,7 +24,7 @@ include "assets/data.php";
     <script src="https://kit.fontawesome.com/0510089784.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="js/script.js" defer></script>
+    <script src="main.js" defer></script>
     <title>Php-Dischi</title>
 </head>
 
